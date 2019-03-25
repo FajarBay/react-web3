@@ -2,28 +2,18 @@
   "name": "web3",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://fajarbay.github.io/react-web3",
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
     "react-scripts": "^2.1.8"
-=======
-  "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
->>>>>>> 591c1e402d3b8d8cbba75d442e8a5977f45b2b92
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-=======
->>>>>>> 591c1e402d3b8d8cbba75d442e8a5977f45b2b92
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -34,12 +24,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-<<<<<<< HEAD
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
-=======
-  ]
->>>>>>> 591c1e402d3b8d8cbba75d442e8a5977f45b2b92
 }
