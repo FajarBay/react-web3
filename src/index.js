@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './Custom.css'; //import cssnya
 import App from './App';
-
+import * ServiceWorker from './serviceWorker';
 const items = [
   {
       name : 'IpRed',
@@ -29,3 +29,4 @@ const items = [
 ReactDOM.render(<App items={items}/>,
   document.getElementById('root')
 );
+ServiceWorker.register();
