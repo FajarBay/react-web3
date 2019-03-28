@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-web3/static/css/main.e331993c.chunk.css",
-  "main.js": "/react-web3/static/js/main.982fde1a.chunk.js",
-  "main.js.map": "/react-web3/static/js/main.982fde1a.chunk.js.map",
+  "main.css": "/react-web3/static/css/main.3584176f.chunk.css",
+  "main.js": "/react-web3/static/js/main.7ad6ff57.chunk.js",
+  "main.js.map": "/react-web3/static/js/main.7ad6ff57.chunk.js.map",
   "runtime~main.js": "/react-web3/static/js/runtime~main.a9207d26.js",
   "runtime~main.js.map": "/react-web3/static/js/runtime~main.a9207d26.js.map",
   "static/js/2.f885ce20.chunk.js": "/react-web3/static/js/2.f885ce20.chunk.js",
   "static/js/2.f885ce20.chunk.js.map": "/react-web3/static/js/2.f885ce20.chunk.js.map",
   "index.html": "/react-web3/index.html",
-  "precache-manifest.e3e4b7a12eb9e5f9e2c7eca23eeff86b.js": "/react-web3/precache-manifest.e3e4b7a12eb9e5f9e2c7eca23eeff86b.js",
+  "precache-manifest.cca43279af0e772f89070554c168e33d.js": "/react-web3/precache-manifest.cca43279af0e772f89070554c168e33d.js",
   "service-worker.js": "/react-web3/service-worker.js",
-  "static/css/main.e331993c.chunk.css.map": "/react-web3/static/css/main.e331993c.chunk.css.map",
-  "static/media/logo.svg": "/react-web3/static/media/logo.5d5d9eef.svg"
+  "static/css/main.3584176f.chunk.css.map": "/react-web3/static/css/main.3584176f.chunk.css.map",
+  "static/media/logo.svg": "/react-web3/static/media/logo.ee7cd8ed.svg"
 }
